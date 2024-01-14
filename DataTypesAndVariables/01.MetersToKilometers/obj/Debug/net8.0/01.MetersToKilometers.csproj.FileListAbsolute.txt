@@ -1,0 +1,14 @@
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\bin\Debug\net8.0\01.MetersToKilometers.exe
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\bin\Debug\net8.0\01.MetersToKilometers.deps.json
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\bin\Debug\net8.0\01.MetersToKilometers.runtimeconfig.json
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\bin\Debug\net8.0\01.MetersToKilometers.dll
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\bin\Debug\net8.0\01.MetersToKilometers.pdb
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.AssemblyInfoInputs.cache
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.AssemblyInfo.cs
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.csproj.CoreCompileInputs.cache
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.dll
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\refint\01.MetersToKilometers.dll
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.pdb
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\01.MetersToKilometers.genruntimeconfig.cache
+F:\c#\DataTypesAndVariables\01.MetersToKilometers\obj\Debug\net8.0\ref\01.MetersToKilometers.dll

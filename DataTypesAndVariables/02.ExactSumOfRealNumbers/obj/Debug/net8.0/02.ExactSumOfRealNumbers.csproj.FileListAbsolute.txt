@@ -1,0 +1,14 @@
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\bin\Debug\net8.0\02.ExactSumOfRealNumbers.exe
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\bin\Debug\net8.0\02.ExactSumOfRealNumbers.deps.json
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\bin\Debug\net8.0\02.ExactSumOfRealNumbers.runtimeconfig.json
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\bin\Debug\net8.0\02.ExactSumOfRealNumbers.dll
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\bin\Debug\net8.0\02.ExactSumOfRealNumbers.pdb
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.AssemblyInfo.cs
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.dll
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\refint\02.ExactSumOfRealNumbers.dll
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.pdb
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\02.ExactSumOfRealNumbers.genruntimeconfig.cache
+F:\c#\DataTypesAndVariables\02.ExactSumOfRealNumbers\obj\Debug\net8.0\ref\02.ExactSumOfRealNumbers.dll

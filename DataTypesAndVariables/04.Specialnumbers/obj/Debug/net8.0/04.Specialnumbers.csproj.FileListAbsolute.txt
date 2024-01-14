@@ -1,0 +1,14 @@
+F:\c#\DataTypesAndVariables\04.Specialnumbers\bin\Debug\net8.0\04.Specialnumbers.exe
+F:\c#\DataTypesAndVariables\04.Specialnumbers\bin\Debug\net8.0\04.Specialnumbers.deps.json
+F:\c#\DataTypesAndVariables\04.Specialnumbers\bin\Debug\net8.0\04.Specialnumbers.runtimeconfig.json
+F:\c#\DataTypesAndVariables\04.Specialnumbers\bin\Debug\net8.0\04.Specialnumbers.dll
+F:\c#\DataTypesAndVariables\04.Specialnumbers\bin\Debug\net8.0\04.Specialnumbers.pdb
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.AssemblyInfoInputs.cache
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.AssemblyInfo.cs
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.csproj.CoreCompileInputs.cache
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.dll
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\refint\04.Specialnumbers.dll
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.pdb
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\04.Specialnumbers.genruntimeconfig.cache
+F:\c#\DataTypesAndVariables\04.Specialnumbers\obj\Debug\net8.0\ref\04.Specialnumbers.dll

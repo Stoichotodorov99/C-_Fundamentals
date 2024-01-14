@@ -1,0 +1,14 @@
+F:\c#\DataTypesAndVariables\03.Centuries\bin\Debug\net8.0\03.Centuries.exe
+F:\c#\DataTypesAndVariables\03.Centuries\bin\Debug\net8.0\03.Centuries.deps.json
+F:\c#\DataTypesAndVariables\03.Centuries\bin\Debug\net8.0\03.Centuries.runtimeconfig.json
+F:\c#\DataTypesAndVariables\03.Centuries\bin\Debug\net8.0\03.Centuries.dll
+F:\c#\DataTypesAndVariables\03.Centuries\bin\Debug\net8.0\03.Centuries.pdb
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.AssemblyInfoInputs.cache
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.AssemblyInfo.cs
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.csproj.CoreCompileInputs.cache
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.dll
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\refint\03.Centuries.dll
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.pdb
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\03.Centuries.genruntimeconfig.cache
+F:\c#\DataTypesAndVariables\03.Centuries\obj\Debug\net8.0\ref\03.Centuries.dll
