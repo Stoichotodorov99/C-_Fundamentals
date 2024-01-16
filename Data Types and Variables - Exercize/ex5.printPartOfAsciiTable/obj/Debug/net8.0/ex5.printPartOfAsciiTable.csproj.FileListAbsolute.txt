@@ -1,0 +1,14 @@
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\bin\Debug\net8.0\ex5.printPartOfAsciiTable.exe
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\bin\Debug\net8.0\ex5.printPartOfAsciiTable.deps.json
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\bin\Debug\net8.0\ex5.printPartOfAsciiTable.runtimeconfig.json
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\bin\Debug\net8.0\ex5.printPartOfAsciiTable.dll
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\bin\Debug\net8.0\ex5.printPartOfAsciiTable.pdb
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.AssemblyInfoInputs.cache
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.AssemblyInfo.cs
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.csproj.CoreCompileInputs.cache
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.dll
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\refint\ex5.printPartOfAsciiTable.dll
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.pdb
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ex5.printPartOfAsciiTable.genruntimeconfig.cache
+F:\c#\Data Types and Variables - Exercize\ex5.printPartOfAsciiTable\obj\Debug\net8.0\ref\ex5.printPartOfAsciiTable.dll

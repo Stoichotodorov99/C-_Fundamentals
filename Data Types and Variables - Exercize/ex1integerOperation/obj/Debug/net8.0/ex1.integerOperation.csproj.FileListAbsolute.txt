@@ -1,0 +1,14 @@
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\bin\Debug\net8.0\ex1.integerOperation.exe
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\bin\Debug\net8.0\ex1.integerOperation.deps.json
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\bin\Debug\net8.0\ex1.integerOperation.runtimeconfig.json
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\bin\Debug\net8.0\ex1.integerOperation.dll
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\bin\Debug\net8.0\ex1.integerOperation.pdb
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.AssemblyInfoInputs.cache
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.AssemblyInfo.cs
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.csproj.CoreCompileInputs.cache
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.dll
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\refint\ex1.integerOperation.dll
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.pdb
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ex1.integerOperation.genruntimeconfig.cache
+F:\c#\Data Types and Variables - Exercize\ex1integerOperation\obj\Debug\net8.0\ref\ex1.integerOperation.dll
