@@ -1,0 +1,14 @@
+F:\c#\Arrays\01.daysOfWeek\bin\Debug\net8.0\01.daysOfWeek.exe
+F:\c#\Arrays\01.daysOfWeek\bin\Debug\net8.0\01.daysOfWeek.deps.json
+F:\c#\Arrays\01.daysOfWeek\bin\Debug\net8.0\01.daysOfWeek.runtimeconfig.json
+F:\c#\Arrays\01.daysOfWeek\bin\Debug\net8.0\01.daysOfWeek.dll
+F:\c#\Arrays\01.daysOfWeek\bin\Debug\net8.0\01.daysOfWeek.pdb
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.AssemblyInfoInputs.cache
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.AssemblyInfo.cs
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.csproj.CoreCompileInputs.cache
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.dll
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\refint\01.daysOfWeek.dll
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.pdb
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\01.daysOfWeek.genruntimeconfig.cache
+F:\c#\Arrays\01.daysOfWeek\obj\Debug\net8.0\ref\01.daysOfWeek.dll

@@ -1,0 +1,14 @@
+F:\c#\Arrays\02.NumbersInReverseOrder\bin\Debug\net8.0\02.NumbersInReverseOrder.exe
+F:\c#\Arrays\02.NumbersInReverseOrder\bin\Debug\net8.0\02.NumbersInReverseOrder.deps.json
+F:\c#\Arrays\02.NumbersInReverseOrder\bin\Debug\net8.0\02.NumbersInReverseOrder.runtimeconfig.json
+F:\c#\Arrays\02.NumbersInReverseOrder\bin\Debug\net8.0\02.NumbersInReverseOrder.dll
+F:\c#\Arrays\02.NumbersInReverseOrder\bin\Debug\net8.0\02.NumbersInReverseOrder.pdb
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.AssemblyInfoInputs.cache
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.AssemblyInfo.cs
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.csproj.CoreCompileInputs.cache
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.dll
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\refint\02.NumbersInReverseOrder.dll
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.pdb
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\02.NumbersInReverseOrder.genruntimeconfig.cache
+F:\c#\Arrays\02.NumbersInReverseOrder\obj\Debug\net8.0\ref\02.NumbersInReverseOrder.dll

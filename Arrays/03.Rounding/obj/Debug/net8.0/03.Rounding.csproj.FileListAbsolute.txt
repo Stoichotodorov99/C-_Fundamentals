@@ -1,0 +1,14 @@
+F:\c#\Arrays\03.Rounding\bin\Debug\net8.0\03.Rounding.exe
+F:\c#\Arrays\03.Rounding\bin\Debug\net8.0\03.Rounding.deps.json
+F:\c#\Arrays\03.Rounding\bin\Debug\net8.0\03.Rounding.runtimeconfig.json
+F:\c#\Arrays\03.Rounding\bin\Debug\net8.0\03.Rounding.dll
+F:\c#\Arrays\03.Rounding\bin\Debug\net8.0\03.Rounding.pdb
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.AssemblyInfoInputs.cache
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.AssemblyInfo.cs
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.csproj.CoreCompileInputs.cache
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.dll
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\refint\03.Rounding.dll
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.pdb
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\03.Rounding.genruntimeconfig.cache
+F:\c#\Arrays\03.Rounding\obj\Debug\net8.0\ref\03.Rounding.dll
