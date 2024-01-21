@@ -1,0 +1,14 @@
+F:\c#\Arrays.Exercise\03.zigZagArray\bin\Debug\net8.0\03.zigZagArray.exe
+F:\c#\Arrays.Exercise\03.zigZagArray\bin\Debug\net8.0\03.zigZagArray.deps.json
+F:\c#\Arrays.Exercise\03.zigZagArray\bin\Debug\net8.0\03.zigZagArray.runtimeconfig.json
+F:\c#\Arrays.Exercise\03.zigZagArray\bin\Debug\net8.0\03.zigZagArray.dll
+F:\c#\Arrays.Exercise\03.zigZagArray\bin\Debug\net8.0\03.zigZagArray.pdb
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.AssemblyInfoInputs.cache
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.AssemblyInfo.cs
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.csproj.CoreCompileInputs.cache
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.dll
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\refint\03.zigZagArray.dll
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.pdb
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\03.zigZagArray.genruntimeconfig.cache
+F:\c#\Arrays.Exercise\03.zigZagArray\obj\Debug\net8.0\ref\03.zigZagArray.dll

@@ -1,0 +1,14 @@
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\bin\Debug\net8.0\05.CondanceArrayToNumber.exe
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\bin\Debug\net8.0\05.CondanceArrayToNumber.deps.json
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\bin\Debug\net8.0\05.CondanceArrayToNumber.runtimeconfig.json
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\bin\Debug\net8.0\05.CondanceArrayToNumber.dll
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\bin\Debug\net8.0\05.CondanceArrayToNumber.pdb
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.AssemblyInfoInputs.cache
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.AssemblyInfo.cs
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.csproj.CoreCompileInputs.cache
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.dll
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\refint\05.CondanceArrayToNumber.dll
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.pdb
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\05.CondanceArrayToNumber.genruntimeconfig.cache
+F:\c#\Arrays.Exercise\05.CondanceArrayToNumber\obj\Debug\net8.0\ref\05.CondanceArrayToNumber.dll

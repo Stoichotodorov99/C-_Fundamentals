@@ -1,0 +1,14 @@
+F:\c#\Arrays.Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.exe
+F:\c#\Arrays.Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.deps.json
+F:\c#\Arrays.Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.runtimeconfig.json
+F:\c#\Arrays.Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.dll
+F:\c#\Arrays.Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.pdb
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfoInputs.cache
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfo.cs
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.csproj.CoreCompileInputs.cache
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.dll
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\refint\02.CommonElements.dll
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.pdb
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.genruntimeconfig.cache
+F:\c#\Arrays.Exercise\02.CommonElements\obj\Debug\net8.0\ref\02.CommonElements.dll

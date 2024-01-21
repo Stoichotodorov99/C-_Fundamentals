@@ -1,0 +1,14 @@
+F:\c#\Arrays.Exercise\04.ArrayRotation\bin\Debug\net8.0\04.ArrayRotation.exe
+F:\c#\Arrays.Exercise\04.ArrayRotation\bin\Debug\net8.0\04.ArrayRotation.deps.json
+F:\c#\Arrays.Exercise\04.ArrayRotation\bin\Debug\net8.0\04.ArrayRotation.runtimeconfig.json
+F:\c#\Arrays.Exercise\04.ArrayRotation\bin\Debug\net8.0\04.ArrayRotation.dll
+F:\c#\Arrays.Exercise\04.ArrayRotation\bin\Debug\net8.0\04.ArrayRotation.pdb
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.AssemblyInfoInputs.cache
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.AssemblyInfo.cs
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.dll
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\refint\04.ArrayRotation.dll
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.pdb
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\04.ArrayRotation.genruntimeconfig.cache
+F:\c#\Arrays.Exercise\04.ArrayRotation\obj\Debug\net8.0\ref\04.ArrayRotation.dll
